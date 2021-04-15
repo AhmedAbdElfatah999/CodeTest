@@ -10,7 +10,6 @@
   - Install dependencie (should be done automatically when running the project):
 ```sh
     cd ApiApp
-    npm i
     dotnet restore
 ```
 ### Run:
