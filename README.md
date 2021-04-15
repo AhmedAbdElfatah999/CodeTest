@@ -38,7 +38,7 @@ In general, we want to have at least some code in the following three languages.
 Using any external library is allowed, the same goes for old code in your repository. Utilizing external libraries does have to be utilized for a good reason though.
 
 ## The test (Whats your task)
-### Basic CRUD operations(Read Operation is Enoguh for this Task)
+### Basic CRUD operations(Read operation is enough for this task)
 Add basic CRUD oparations to the application using Single PAge Application framework(Angular).
 
 ### Web Components
