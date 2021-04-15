@@ -20,7 +20,7 @@ dotnet run ApiApp/ApiApp.csproj
 ```
 
 # Gerneral information about the project
-No libraries are used in the javascript. We utilize Gulp to bundle and compile both the TypeScript and the SCSS.
+No libraries are used in the javascript. We utilize Gulp to bundle and compile both the typeScript and the SCSS.
 
 # Database
   - We don't use any databse Engine for this project, but feel free to switch if you want to use any database Engine.
@@ -39,7 +39,7 @@ Using any external library is allowed, the same goes for old code in your reposi
 
 ## The test (Whats your task)
 ### Basic CRUD operations(Read operation is enough for this task)
-Add basic CRUD oparations to the application using Single PAge Application framework(Angular).
+Add basic CRUD oparations to the application using single page application framework(Angular).
 
 ### Web Components
 When doing frontend, we use web components so we can have reusable and framework agnostic code. We prefer you do components in "web components"
