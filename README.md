@@ -40,7 +40,10 @@ Using any external library is allowed, the same goes for old code in your reposi
 ## The test (Whats your task)
 ### Basic CRUD operations(Read operation is enough for this task)
 Add basic CRUD oparations to the application using single page application framework(Angular).
-
+Add the rest of CRUD Operation(Edit- Delete- Create) to the Project will be big bonus
+## Delivery
+Send the frontend without node_modules for front end project
+Send API in case of adding rest CRUD Operation.
 ### Web Components
 When doing frontend, we use web components so we can have reusable and framework agnostic code. We prefer you do components in "web components"
 Check *Frontend/Scripts/WebComponents/UserModal.component.ts* for inspiration on how to create web components.
