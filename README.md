@@ -16,7 +16,7 @@
   - Use the debug function in either visual studio or vs code
   - Or just run this command:
 ```sh
-dotnet run ApiApp/ApiApp.csproj
+dotnet run
 ```
 
 # Gerneral information about the project
