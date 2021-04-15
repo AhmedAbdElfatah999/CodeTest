@@ -7,6 +7,7 @@ using Microsoft.Extensions.Logging;
 using Microsoft.EntityFrameworkCore.Sqlite;
 namespace ApiApp.Controllers
 {
+    //Code Test API
     [ApiController]
     [Route("Api/[controller]")]
     public class WeatherForecastController : ControllerBase
