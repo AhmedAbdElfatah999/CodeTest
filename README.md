@@ -43,7 +43,7 @@ Add basic CRUD oparations to the application using single page application frame
 Add the rest of CRUD Operation(Edit- Delete- Create) to the Project will be big bonus
 ## Delivery
 Send the frontend without node_modules for front end project
-Send API in case of adding rest CRUD Operation.
+Send API in case of adding any CRUD Operation.
 ### Web Components
 When doing frontend, we use web components so we can have reusable and framework agnostic code. We prefer you do components in "web components"
 Check *Frontend/Scripts/WebComponents/UserModal.component.ts* for inspiration on how to create web components.
